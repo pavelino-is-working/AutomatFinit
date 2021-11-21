@@ -1,0 +1,7 @@
+{
+  "stari": ["S", "B", "A", "K"],
+  "alfabet": ["a","b", "c"],
+  "tranziti": [["S","a", ["A"]], ["S","b", ["B"]], ["B", "c", ["A", "K"]], ["A","a", ["A"]], ["A","c", ["K"]]],
+  "stare_initiala" : "S",
+  "stari_finale": ["K"]
+}
